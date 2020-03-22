@@ -1,0 +1,22 @@
+.mymargin{
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+}
+.margin1{
+    padding: 10px;
+    margin-left: 200px;;
+
+}
+.margin2{
+    padding: 2px;
+   
+
+}
+.h{
+    text-align: center;
+    padding: 10px;
+}
+.mr{
+    margin-top: 20px;
+    margin-left: 400px;
+}
